@@ -6,10 +6,12 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "einops>=0.8.1",
+    "geopandas>=1.1.1",
     "imutils>=0.5.4",
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
+    "openai>=1.93.0",
     "opencv-python>=4.11.0.86",
     "pandas>=2.3.0",
     "sam-2",
